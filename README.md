@@ -1,2 +1,5 @@
-# Sentiment140-RNN-vs-LSTM
-entiment analysis on the Sentiment140 dataset (1.6M tweets) using RNN and LSTM models, with performance comparison and visualized results.
+# Sentiment Analysis on Sentiment140 RNN vs LSTM
+
+This project applies deep learning models (LSTM and RNN) to the **Sentiment140** dataset containing 1.6 million tweets.  
+The workflow includes **data preprocessing**, **train/test splitting**, **model training**, **evaluation**, and a **comparative analysis** between LSTM and RNN.  
+A detailed **PDF report** summarizing the methodology, results, and findings is included in the repository.
